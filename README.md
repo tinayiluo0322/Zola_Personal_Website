@@ -2,7 +2,7 @@
 
 # Luopeiwen (Tina) Yi's Portfolio Web App 
 
-# Goal
+## Goal
 Create a static site with Zola, a Rust static site generator styled with CSS, that holds all of the portofolio work in this class. 
 
 ## Preparation
@@ -17,14 +17,14 @@ Create a static site with Zola, a Rust static site generator styled with CSS, th
 9. Copy Vercel token, Vercel team id, and Vercel Org id to Gitlab secrets 
 10. Push repo to run pipeline filr `.gitlab-ci.yml`
 
-### Portfolio Content
+## Portfolio Content
 
 1. Nutrition Guide Web App
 2. Rust CLI Binary With SQLite
 3. Auto Scaling Flask App
 4. Databricks ETL-Pipeline
 
-### Web App Delivery 
+## Web App Delivery 
 
 [Luopeiwen (Tina) Yi's Portfolio Webiste](https://tinaportfolio.vercel.app/)
 
