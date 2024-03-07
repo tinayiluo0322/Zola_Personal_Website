@@ -1,18 +1,29 @@
 +++
-title = "Rust CLI Binary With SQLite"
-date = "2023-10-17"
-description = "Data Engineering Individual Project 1"
+title = "Education"
+description = "Overview of Academic Achievements and Relevant Coursework"
+weight=1
 +++
 
-This project delivers a comprehensive Data Extraction, Transformation, Loading (ETL) tool, alongside Querying (CRUD) capabilities, all developed using Rust. The process entails initializing a new Rust project with `cargo init` and installing Rust dependencies through `Cargo.toml` using `cargo build`. Notably, Github Copilot was employed to aid the transition from Python to Rust. This conversion was meticulously crafted to ensure adherence to Rust's syntax, robust error handling, and full utilization of Rust's unique features. 
+I have pursued a rigorous and diverse academic path, focusing on data science, economics, and international relations. My education journey is marked by a combination of theoretical knowledge and practical skills, enriched through relevant coursework and honors.
 
-This toolkit offers a suite of functions for ETL operations on datasets, facilitating queries on a SQLite database. It comprehensively covers CRUD (Create, Read, Update, Delete) operations, logging all queries to a Markdown file, query_log.md, to aid in the tracking and analysis of executed commands.
+## Duke University, The Graduate School, Durham, NC
+**Period:** August 2023 - May 2025  
+**Degree:** Master’s in Interdisciplinary Data Science (MIDS)  
+**GPA:** 4.0  
+**Relevant Coursework:** Machine Learning, Data Engineering, Natural Language Processing, Data Modeling, and Representation
 
-The operational workflow includes running a Makefile to perform tasks such as installation (`make install`), testing (`make test`), code formatting (`make format`) with Python Black, linting (`make lint`) with Ruff, and an all-inclusive task (`make all`). This automation streamlines the data analysis process and enhances code quality.
+At Duke University, my academic focus is on the intersection of data science disciplines. I have engaged in courses designed to provide a comprehensive foundation in machine learning, data engineering, and natural language processing, among others. My studies are directed towards harnessing data for insightful analysis and decision-making.
 
-To cap it off, the project produces an optimized Rust binary, which is available as a GitHub Actions artifact, ready for download.
+## New York University, College of Arts and Science, New York, NY
+**Period:** August 2018 - May 2022  
+**Degree:** Bachelor of Arts in Economics and International Relations (Honors)  
+**GPA:** 3.85 | Magna Cum Laude  
+**Distinctions:** Presidential Honors Scholar, UNGC (U.N. Global Compact) Global Campaign Representative
 
-Here is my [Demo Video](https://youtu.be/vwk7wgY9qcU) showing a clear, concise walkthrough and demonstration of my CLI binary.
+At New York University, I developed a strong foundation in economics and international relations, complemented by my involvement in honors programs and global initiatives. My academic achievements, underscored by a high GPA and prestigious scholarships, reflect my commitment to excellence and global engagement.
 
-Here is my [Rust CLI Binary With SQLite](https://github.com/nogibjj/tinayiluo_Rust_CLI_Binary_With_SQLite.git) Github project repository. 
+---
 
+This educational journey has not only equipped me with a solid theoretical foundation but also honed my practical skills in data analysis, programming, and research. I am committed to leveraging this background to contribute to the field of data science, where I continuously seek to apply my skills in real-world scenarios and research endeavors.
+
+Feel free to connect with me for discussions on data science, machine learning, and how interdisciplinary approaches can address complex challenges in today's data-driven world.

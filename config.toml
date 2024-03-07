@@ -18,7 +18,9 @@ highlight_code = true
 # Put all your custom variables here
 [extra.profile]
 name = "Luopeiwen (Tina) Yi"
-bio = "Welcome to Tina's portfolio web page."
+bio = """
+Welcome to Tina's Personal Web Page.
+"""
 # The URL of avatar.
 avatar_url = "icons/test.svg"
 # Invert color in dark mode.
@@ -32,4 +34,8 @@ url = "https://github.com/tinayiluo0322"
 [[extra.profile.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/luopeiwen-yi/"
+
+[[extra.menu]]
+name = "About"
+url = "$BASE_URL/about"
 

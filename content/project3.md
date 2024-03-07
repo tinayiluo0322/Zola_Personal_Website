@@ -1,19 +1,14 @@
 +++
-title = "Auto Scaling Flask App"
-date = "2023-12-06"
-description = "Data Engineering Individual Project 3"
+title = "Research"
+description = "Overview of Research in Statistical Analysis and Policy Evaluation"
+weight=3
 +++
 
-The project, "Hello Doctor," is a Flask web application integrated with OpenAI's LLM model, utilizing Docker for effective containerization. Here is a brief workflow overview of the Flask web application:
+### DURF (Deans Undergraduate Research Fund), New York University
+**Duration:** Sep 2021 - May 2022
 
-1. User Input: Individuals input their symptoms into the application.
+Under the auspices of the DURF, this project explored the impact of e-commerce on rural poverty reduction in China, specifically through the lens of Ali Taobao E-Commerce Villages. This involved:
 
-2. Illness Search: The application processes these symptoms and searches for a corresponding illness using the AI model.
-
-3. Diagnostic Output: The web application then presents a detailed diagnostic of the identified illness to the user.
-
-Here is my [Hello Doctor Web Application](https://week13.calmisland-989659dc.westus2.azurecontainerapps.io).
-
-Here is my [Demo_Video](https://youtu.be/3LT7dBMBwjU)showing a clear, concise walkthrough and demonstration of this project.
-
-Here is my [Auto Scaling Flask App](https://github.com/nogibjj/tinayiluo_Auto_Scaling_Flask_App.git) Github project repository. 
+1. **Statistical Analysis:** Using Python and R, a two-way fixed effect panel data regression analysis was conducted on data from 2,591 counties across 27 provinces, spanning from 2014 to 2021.
+   
+2. **Global Poverty Alleviation:** The research contributed valuable insights into e-commerce strategies for rural development, marking a significant step towards understanding the role of digital platforms in poverty reduction efforts. The study was featured in the 2022 edition of NYU Inquiry: A Journal of Undergraduate Research.
