@@ -3,7 +3,7 @@
 # Luopeiwen (Tina) Yi's Portfolio Web App 
 
 ## Goal
-Create my personal website with Zola hosted on Vercel with Gitlab workflow for build and deployment. 
+Develop a personal website utilizing Zola for content generation, hosted on Vercel for superior performance, and managed through a GitLab workflow to streamline the build and deployment process.
 
 ## Preparation
 1. Install Zola 
