@@ -1,7 +1,5 @@
 [![pipeline status](https://gitlab.com/ly178/tinayiluo_ids721_week1/badges/main/pipeline.svg)](https://gitlab.com/ly178/tinayiluo_ids721_week1/-/commits/main)
 
-Test
-
 # Luopeiwen (Tina) Yi's Portfolio Web App 
 
 ## Goal
