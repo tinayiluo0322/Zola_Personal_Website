@@ -4,7 +4,7 @@ description = "Overview of Acheivements and Awards in Deep Learning and Statisti
 weight=5
 +++
 
-### 2024 ASA Duke DataFest - Winner, Department of Statistical Science at Duke University
+### 2024 ASA DataFest - Winner, American Statistical Association & Department of Statistical Science at Duke University
 **Duration:** March 2024
 
 ![Award Picture](/icons/competition.jpg)
@@ -16,7 +16,7 @@ weight=5
 
 In this competition, our team developed a sophisticated rating plan for InsNova Auto Insurance by meticulously analyzing data from 45,239 one-year vehicle insurance policies. The project's highlights include:
 
-1. **Claim Cost Prediction Models:** We engineered three advanced models using statistical and machine learning techniques in R and Python, including Tweedie and Catboost. Our models outperformed the TRV benchmark by achieving an 18.7% higher accuracy rate in claim cost forecasting.
+1. **Claim Cost Prediction Models:** We engineered three advanced models using statistical and machine learning techniques in R and Python, including Tweedie and Catboost. Our models outperformed the TRV benchmark in claim cost forecasting.
    
 2. **Key Factors Identification:** Our analysis pinpointed crucial factors such as exposure, age, and vehicle value, which significantly improved the company's strategies in policy pricing, underwriting, and claims management.
 

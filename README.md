@@ -30,7 +30,8 @@ The primary goal is to create a sophisticated and user-friendly personal website
 
 #### d. Developing Content:
 1. Create markdown files within the `content` folder for different sections of my website, such as `project1.md`, `project2.md`, `project3.md`, etc.
-2. Utilize Zola's content management features to organize the content effectively.
+2. Add images and other static assets in my content within the `static/icons` directory. 
+3. Utilize Zola's content management features to organize the content effectively.
 
 #### e. Local Testing:
 1. Run `zola serve` from the site's root directory to test my website locally. This command starts a local web server, allowing me to preview my website.
@@ -44,6 +45,7 @@ The primary goal is to create a sophisticated and user-friendly personal website
 1. Run `vercel login` and follow the prompts to log in to my Vercel account.
 2. In my site's root directory, execute `vercel link` to connect my local project with a Vercel project. Follow the CLI prompts to either link to an existing project or create a new one.
 3. Configure my project settings as prompted, including the assignment of environment variables.
+4. Prepare my project for deployment on Vercel by creating and configuring a `vercel.json` file in the project's root directory. This configuration file is essential for deploying a Zola-powered static site on Vercel. It includes a custom installation command for Zola, fetching its latest release directly from GitHub, and specifies the build command and output directory. The `vercel.json` ensures that Zola is installed and configured correctly, allowing Vercel to build and serve my site efficiently.
 
 ### 3. Deployment
 
