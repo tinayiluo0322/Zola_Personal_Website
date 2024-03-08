@@ -56,7 +56,7 @@ The primary goal is to create a sophisticated and user-friendly personal website
 1. Push the repository to GitLab. Create a new project on GitLab and follow the instructions to push the local repository to GitLab.
 2. In the GitLab project, navigate to "Settings" > "CI / CD" > "Variables" to add the Vercel token, team ID, and organization ID as secrets.
 
-#### Configuring the `.gitlab-ci.yml` File
+#### c. Configuring the `.gitlab-ci.yml` File
 
 1. **Create a `.gitlab-ci.yml` file** at the root of the project. This YAML file will define the CI/CD pipeline's configuration.
 2. **Define jobs** within this file to install the Vercel CLI, authenticate using the Vercel token, and deploy the project to Vercel. Below is an example configuration:
