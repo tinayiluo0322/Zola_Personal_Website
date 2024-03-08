@@ -12,6 +12,9 @@ The primary goal is to create a sophisticated and user-friendly personal website
 
 [Luopeiwen (Tina) Yi's Personal Webiste](https://tinaportfolio.vercel.app/)
 
+# Demo Video 
+[Luopeiwen (Tina) Yi's Personal Webiste Youtube Demo](https://youtu.be/ue-S6L2Xo8k)
+
 ## Description
 ### 1. Content Creation using Zola
 
